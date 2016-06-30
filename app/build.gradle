@@ -24,6 +24,5 @@ model {
 dependencies {
     compile files('src/javalib/com.android.compatibility.common.util.jar')
     compile files('src/javalib/android-ex-camera2_intermediates.jar')
-    compile files('src/javalib/cts-sensors-tests_intermediates.jar')
     compile 'junit:junit:4.12'
 }
