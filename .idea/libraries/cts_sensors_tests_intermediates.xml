@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cts-sensors-tests_intermediates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/javalib/cts-sensors-tests_intermediates.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
